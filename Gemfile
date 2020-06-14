@@ -10,7 +10,6 @@ gem 'eventmachine', platforms: [:ruby]
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby, :x64_mingw]
 gem 'wdm', '~> 0.1', platforms: [:mswin, :mingw, :x64_mingw]
 
-
 # For integration of frontend framework
 gem 'middleman-compass', '~> 4.0'
 gem 'middleman-sprockets', '~> 4.0.0.rc'
